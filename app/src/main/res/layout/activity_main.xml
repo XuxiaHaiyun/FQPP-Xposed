@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:colorBackground">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorSurface"
+        android:elevation="0dp">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:menu="@menu/main_menu"
+            app:title="@string/app_name"
+            app:titleCentered="true" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- 状态卡片（激活/未激活动态配色） -->
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/statusCard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:cardBackgroundColor="?attr/colorPrimaryContainer"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:padding="20dp">
+
+                    <ImageView
+                        android:id="@+id/statusBadge"
+                        android:layout_width="52dp"
+                        android:layout_height="52dp"
+                        android:background="@drawable/badge_circle"
+                        android:contentDescription="激活状态"
+                        android:gravity="center"
+                        android:padding="12dp"
+                        android:src="@drawable/ic_check_circle"
+                        app:tint="?attr/colorOnPrimary" />
+
+                    <LinearLayout
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="16dp"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/statusTitle"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/status_active"
+                            android:textAppearance="?attr/textAppearanceTitleLarge"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/statusSub"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/status_active_sub"
+                            android:textAppearance="?attr/textAppearanceBodyMedium" />
+                    </LinearLayout>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- 一键加入作用域 -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/requestScopeButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                app:icon="@android:drawable/ic_menu_add"
+                android:text="将番茄小说加入模块作用域"
+                android:visibility="gone" />
+
+            <!-- 功能特性 -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:layout_marginBottom="8dp"
+                android:text="@string/features_header"
+                android:textAppearance="?attr/textAppearanceTitleMedium"
+                android:textColor="?attr/colorPrimary" />
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="?attr/colorSurfaceContainer"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingTop="4dp"
+                    android:paddingBottom="4dp">
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_link" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_http_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_http_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_verified" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_vip_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_vip_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_lock_open" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_unlock_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_unlock_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_block" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_update_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_update_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_settings" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_clean_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_clean_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_check_circle" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_reward_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_reward_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_access_time" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_reading_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_reading_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_block" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_crash_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_crash_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_block" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_hotupdate_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_hotupdate_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <View style="@style/FeatureDivider" />
+
+                    <LinearLayout style="@style/FeatureRow">
+                        <ImageView style="@style/FeatureBadge" android:src="@drawable/ic_block" />
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="16dp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+                            <TextView style="@style/FeatureTitle" android:text="@string/feat_plugin_title" />
+                            <TextView style="@style/FeatureDesc" android:text="@string/feat_plugin_desc" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </com.google.android.material.card.MaterialCardView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/version_footer"
+                android:textAppearance="?attr/textAppearanceLabelSmall"
+                android:textColor="?attr/colorOnSurfaceVariant" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,3417 @@
+POST /novel/commentapi/idea/list/6884187689541698056/v1?aid=1967&compliance_status=0&iid=2877876566592665&device_id=2877876567030921&ac=mobile&channel=vivo_1967_64&app_name=novelapp&version_code=70932&version_name=7.0.9.32&device_platform=android&os=android&ssmix=a&device_type=sdk_gphone64_x86_64&device_brand=google&language=zh&os_api=36&os_version=16&manifest_version_code=70932&resolution=1080*2400&dpi=420&update_version_code=70932&_rticket=1780787323854&&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=70932&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&rom_version=BE4B.251210.005&cdid=1a84d114-a278-465c-8db2-655435255082 HTTP/2
+host: api5-normal-sinfonlinea.fqnovel.com
+x-ss-stub: CA02DBD888DE8007423CE9F22ABFC4B0
+accept-encoding: gzip
+accept: application/json; charset=utf-8,application/x-protobuf
+content-encoding: gzip
+x-xs-from-web: 0
+x-ss-req-ticket: 1780787323861
+x-reading-request: 1780787323861-234030725
+x-vc-bdturing-sdk-version: 4.0.3.cn
+comment-source: 3
+lc: 101
+sdk-version: 2
+x-tt-token: 00c791b0f8a394a904ccba10b26b8dd5f405c2de33e4a9304a6c34cba0053dd7a19e1955a37f495323334b9e1d202d2ae60355512931369fd2bfcda1abb66ac9928ec18d7ec3ce81b2d0c3c177f16d28b45285b7cddc6a10015486cdd2303a24f5612--0a490a20ac9e8a274a1c547958df59f706734eb567cf1bab5aabc1ece2da5253643de6851220a6d3a99566e266d1b7bfc3cbc6599cbf01dcd8d7911c77f121245dff61d5db0e18f6b4d309-3.0.1
+passport-sdk-version: 5051451
+x-tt-store-region: cn-gz
+x-tt-store-region-src: uid
+user-agent: com.dragon.read/70932 (Linux; U; Android 16; zh_CN_#Hans; sdk_gphone64_x86_64; Build/BE4B.251210.005;tt-ok/3.12.13.20)
+x-ladon: DObaMA==
+x-khronos: 1780787322
+x-argus: eqgkag==
+x-gorgon: 840430c84000501f9220eb199f90dd887fcfd752c060c77fd834
+x-helios: YoctY56wdsn4O34icFAZ1zcg/z2lVZqYthRMZGpdM+KnwCbF
+x-medusa: f6gkalfja6Az3SkpRR2KRljF6DzQNgAB8NnotowPAR0MGBc+VfQh1eV0WqqAPNsQaaR116yzi/3z0Nt7GB59HrUSiVK/ezHHON5jWZc8JcGRxc3WAxu+BLwrAGzyJp5BJFqbOkx7PRjAKGoAOK+b7F3oa1UzBGq6kmu7Iwjl+4BHA2hROdCiM0VwphHv7pTtOAUDTNrjUlexRmTnw3pNWVOiUQptqWOihuRtpAz5xOaQ3N5VzVQ7ZjOmrO/6HceY7FG0zOldvVULrpI62RmVKvoujtKEmXSenV0Gwks76fgSRTZJ53kPzUZHfNK2u2XfR56C5SNYYJNiZjlotzNQm8PAbAUbqjtpt90cE4GAJsqHtJIypKK2T+ttXQ7tyRVwcaCw4Dskg2znjQ+Kl2jR1R+cnE49unkxJ+hpAWD6yY9aEwW5zsNURohaswGWWl+5ExLcHlfCJEUIpuWJ9mlebqTTe33+JwLMru8DruX0WRGObOT41trtyPx+Jn6U6Pu0Ctpm3gox4OliVGHwzzOaF0ScnjGK0u2wh7BN5MseSbhk8AhFzrnc4PPg1UhzXjqQHETtbvGFWTgQXbhFlpPCjQq0FoqcG2DnZVUrxbyOLZj5g8gE38+eJXUs3V9C12P9fQzwbv1ul7uTsa9xWU+uC2e+hysHKIsSMoKC58k9SUlQsFeNqYjti2IWfROYUlyUG6aFymNUZYOiNUydAZ8E6a3hPv21Mv7LScmEzqbjFDDmkX0IxjI2wOix//GESqC2lSuAeBpNeAqk6Q1cue8RL2hqK/FGMXY3Pc4jtloLiVJ2IdnDg7ffuWDKSUFTh9KpLoXMHRm8tQlgcs5RaiJO+yTLc0uwvSwkx/GJUgnNcWf6CcmvEcjev23tA3b4EjW9lfiPxjkKx7nj1leGHe569Q/sZFwk90hdsPiLBrXbi72KyCry56qWKnExdtJ90QwtAqwSfuNr5UbHmo3476nHuzgaoCl7Pdfs+F5Kh3X/wxamyy7BYw1Cg4yPKkwExoviKfP3wx2UHAf7XVxnP6MWeRCxCkxi5khKSgH6k4vh4L3Hw9hFn0cu7htd2GI+FxqMZB1rJqMysYmnDFN/Js6S4ZF8MCngy0yAtfcBswI9gG2ZbhB+JMqTCKConCcHUrXQNAGff88pCWXn4SzxkLdjLB1R5cwOZRRKmXghFJYVmKvpJWHO7p8XSmwhzj1+mQTSqBbXeTM8zUwfrk20C3wFD32fCyjPcSkYsaUT3a40uts/yefxYAXBJgV///9P+P//T7gWEQ==
+content-type: application/json; charset=utf-8
+content-length: 120
+cookie: store-region=cn-gz; install_id=2877876566592665; ttreq=1$4c38d4739698e974e31d4d98b2a29eafe94ae227; d_ticket=47d7847453b0451fea5d9b46ba14da22856bb; oauth-hash=56333; odin_tt=682d43eaa4e5d260fb54732dc725a37cb54e7099b558556f02e1df5ad517ff18936ebc6e4f4f8456243a69bdd51e2b462c35df22653ea003680d4ccc6c89403f1d3d5c8a4bd3b768dce870404306a80c; n_mh=9tKskabWQ1gvf_MUNx7Q269BNA9ToOOGz4mLIqtBlHI; uid_tt=efa695482c37c9a51b6b1ae69e0522bc; uid_tt_ss=efa695482c37c9a51b6b1ae69e0522bc; sid_tt=c791b0f8a394a904ccba10b26b8dd5f4; sessionid=c791b0f8a394a904ccba10b26b8dd5f4; sessionid_ss=c791b0f8a394a904ccba10b26b8dd5f4; is_staff_user=false; store-region-src=uid; has_biz_token=false; passport_csrf_token=3f2715c5e2cd97d442a02116a9b618c8; passport_csrf_token_default=3f2715c5e2cd97d442a02116a9b618c8; sid_guard=c791b0f8a394a904ccba10b26b8dd5f4%7C1780668824%7C5184000%7CTue%2C+04-Aug-2026+14%3A13%3A44+GMT; session_tlb_tag=sttt%7C17%7Cx5Gw-KOUqQTMuhCya43V9P_________mQFocdDaZu1paO1qhwofSGJy6whABlUAO6_ZR4cGytTs%3D
+
+{"comment_source":3,"item_id":"6884187689541698056","item_version":"dddc335d4c372397f4ceffaf9b60e570_1_da8fad22fb4a498"}
+
+{
+  "BaseResp": {
+    "StatusCode": 0,
+    "StatusMessage": "success"
+  },
+  "code": 0,
+  "data": {
+    "data": {
+      "0": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 66
+          },
+          "3": {
+            "channel": 0,
+            "count": 66
+          }
+        },
+        "count": 66,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "1": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 10
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 10,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "10": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "100": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 27
+          },
+          "3": {
+            "channel": 0,
+            "count": 27
+          }
+        },
+        "count": 27,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "101": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "102": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "103": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 12
+          },
+          "3": {
+            "channel": 0,
+            "count": 12
+          }
+        },
+        "count": 12,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "104": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "105": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "106": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "107": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 12
+          },
+          "3": {
+            "channel": 0,
+            "count": 12
+          }
+        },
+        "count": 12,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "108": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 147
+          },
+          "3": {
+            "channel": 0,
+            "count": 147
+          }
+        },
+        "count": 147,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "109": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 132
+          },
+          "3": {
+            "channel": 0,
+            "count": 132
+          }
+        },
+        "count": 132,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "11": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 18
+          },
+          "3": {
+            "channel": 0,
+            "count": 18
+          }
+        },
+        "count": 18,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "110": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 12
+          },
+          "3": {
+            "channel": 0,
+            "count": 12
+          }
+        },
+        "count": 12,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "111": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 11
+          },
+          "3": {
+            "channel": 0,
+            "count": 11
+          }
+        },
+        "count": 11,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "112": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 13
+          },
+          "3": {
+            "channel": 0,
+            "count": 13
+          }
+        },
+        "count": 13,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "113": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "114": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "115": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 29
+          },
+          "3": {
+            "channel": 0,
+            "count": 29
+          }
+        },
+        "count": 29,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "116": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "117": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 28
+          },
+          "3": {
+            "channel": 0,
+            "count": 28
+          }
+        },
+        "count": 28,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "118": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 28
+          },
+          "3": {
+            "channel": 0,
+            "count": 28
+          }
+        },
+        "count": 28,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "119": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "12": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 27
+          },
+          "3": {
+            "channel": 0,
+            "count": 27
+          }
+        },
+        "count": 27,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "120": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "121": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "122": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "123": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 16
+          },
+          "3": {
+            "channel": 0,
+            "count": 16
+          }
+        },
+        "count": 16,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "124": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "125": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 46
+          },
+          "3": {
+            "channel": 0,
+            "count": 46
+          }
+        },
+        "count": 46,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "126": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 10
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 10,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "128": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "13": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 34
+          },
+          "3": {
+            "channel": 0,
+            "count": 34
+          }
+        },
+        "count": 34,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "130": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "131": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "132": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "133": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "134": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 6
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 6,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "135": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "137": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 19
+          },
+          "3": {
+            "channel": 0,
+            "count": 19
+          }
+        },
+        "count": 19,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "6956093804613518112",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "138": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "139": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "14": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 6
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 6,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "140": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 15
+          },
+          "3": {
+            "channel": 0,
+            "count": 15
+          }
+        },
+        "count": 15,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "141": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 21
+          },
+          "3": {
+            "channel": 0,
+            "count": 21
+          }
+        },
+        "count": 21,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "142": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 6
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 6,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "143": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "144": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "145": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "146": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 86
+          },
+          "3": {
+            "channel": 0,
+            "count": 86
+          }
+        },
+        "count": 86,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "147": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "148": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 32
+          },
+          "3": {
+            "channel": 0,
+            "count": 32
+          }
+        },
+        "count": 32,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "149": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 8
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 8,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "15": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "150": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 31
+          },
+          "3": {
+            "channel": 0,
+            "count": 31
+          }
+        },
+        "count": 31,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "6972703877380588292",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "152": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 6
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 6,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "153": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "155": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "156": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 247
+          },
+          "3": {
+            "channel": 0,
+            "count": 247
+          }
+        },
+        "count": 247,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "157": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 78
+          },
+          "3": {
+            "channel": 0,
+            "count": 78
+          }
+        },
+        "count": 78,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "16": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "17": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "18": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "19": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "2": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "20": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 101
+          },
+          "3": {
+            "channel": 0,
+            "count": 101
+          }
+        },
+        "count": 101,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "21": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "22": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "23": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 33
+          },
+          "3": {
+            "channel": 0,
+            "count": 33
+          }
+        },
+        "count": 33,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "24": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 16
+          },
+          "3": {
+            "channel": 0,
+            "count": 16
+          }
+        },
+        "count": 16,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "25": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 11
+          },
+          "3": {
+            "channel": 0,
+            "count": 11
+          }
+        },
+        "count": 11,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "26": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 44
+          },
+          "3": {
+            "channel": 0,
+            "count": 44
+          }
+        },
+        "count": 44,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "7099830856550384420",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "27": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 40
+          },
+          "3": {
+            "channel": 0,
+            "count": 40
+          }
+        },
+        "count": 40,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "28": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "29": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "3": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 51
+          },
+          "3": {
+            "channel": 0,
+            "count": 51
+          }
+        },
+        "count": 51,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "30": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 6
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 6,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "31": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 104
+          },
+          "3": {
+            "channel": 0,
+            "count": 104
+          }
+        },
+        "count": 104,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "32": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "33": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "34": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 16
+          },
+          "3": {
+            "channel": 0,
+            "count": 16
+          }
+        },
+        "count": 16,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "7006470969611076366",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "35": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 69
+          },
+          "3": {
+            "channel": 0,
+            "count": 69
+          }
+        },
+        "count": 69,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "36": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 12
+          },
+          "3": {
+            "channel": 0,
+            "count": 12
+          }
+        },
+        "count": 12,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "37": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 65
+          },
+          "3": {
+            "channel": 0,
+            "count": 65
+          }
+        },
+        "count": 65,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "38": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "39": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 15
+          },
+          "3": {
+            "channel": 0,
+            "count": 15
+          }
+        },
+        "count": 15,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "4": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "40": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "41": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "42": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "43": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "44": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "45": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "46": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 10
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 10,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "48": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 17
+          },
+          "3": {
+            "channel": 0,
+            "count": 17
+          }
+        },
+        "count": 17,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "49": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 11
+          },
+          "3": {
+            "channel": 0,
+            "count": 11
+          }
+        },
+        "count": 11,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "5": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "50": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 7
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 7,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "51": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "53": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "54": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "55": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 21
+          },
+          "3": {
+            "channel": 0,
+            "count": 21
+          }
+        },
+        "count": 21,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "56": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 45
+          },
+          "3": {
+            "channel": 0,
+            "count": 45
+          }
+        },
+        "count": 45,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "57": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 56
+          },
+          "3": {
+            "channel": 0,
+            "count": 56
+          }
+        },
+        "count": 56,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "58": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "59": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 21
+          },
+          "3": {
+            "channel": 0,
+            "count": 21
+          }
+        },
+        "count": 21,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "6": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "60": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "61": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 21
+          },
+          "3": {
+            "channel": 0,
+            "count": 21
+          }
+        },
+        "count": 21,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "62": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 5
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 5,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "63": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 74
+          },
+          "3": {
+            "channel": 0,
+            "count": 74
+          }
+        },
+        "count": 74,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "6922291644461531136",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "64": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "65": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "67": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "68": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 15
+          },
+          "3": {
+            "channel": 0,
+            "count": 15
+          }
+        },
+        "count": 15,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "69": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "7": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "70": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 18
+          },
+          "3": {
+            "channel": 0,
+            "count": 18
+          }
+        },
+        "count": 18,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "72": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "73": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "74": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 1
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 1,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "75": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 13
+          },
+          "3": {
+            "channel": 0,
+            "count": 13
+          }
+        },
+        "count": 13,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "76": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 68
+          },
+          "3": {
+            "channel": 0,
+            "count": 68
+          }
+        },
+        "count": 68,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "77": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 42
+          },
+          "3": {
+            "channel": 0,
+            "count": 42
+          }
+        },
+        "count": 42,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "78": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "79": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 23
+          },
+          "3": {
+            "channel": 0,
+            "count": 23
+          }
+        },
+        "count": 23,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "8": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "80": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 11
+          },
+          "3": {
+            "channel": 0,
+            "count": 11
+          }
+        },
+        "count": 11,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "81": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 2
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 2,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "82": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 423
+          },
+          "3": {
+            "channel": 0,
+            "count": 423
+          }
+        },
+        "count": 423,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "83": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "84": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "85": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 77
+          },
+          "3": {
+            "channel": 0,
+            "count": 77
+          }
+        },
+        "count": 77,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "86": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 17
+          },
+          "3": {
+            "channel": 0,
+            "count": 17
+          }
+        },
+        "count": 17,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "87": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 33
+          },
+          "3": {
+            "channel": 0,
+            "count": 33
+          }
+        },
+        "count": 33,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "88": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 8
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 8,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "89": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 166
+          },
+          "3": {
+            "channel": 0,
+            "count": 166
+          }
+        },
+        "count": 166,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "90": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 383
+          },
+          "3": {
+            "channel": 0,
+            "count": 383
+          }
+        },
+        "count": 383,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "91": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 9
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 9,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "92": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 3
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 3,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "93": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 129
+          },
+          "3": {
+            "channel": 0,
+            "count": 129
+          }
+        },
+        "count": 129,
+        "hot": "0",
+        "infos": [
+          {
+            "comment_id": "6899620126224957452",
+            "common": {
+              "comment_type": 0,
+              "content": {
+                "image_data_list": {},
+                "text": "",
+                "text_exts": []
+              },
+              "create_timestamp": 0,
+              "group_id": "",
+              "service_id": 0,
+              "status": 0,
+              "user_info": {
+                "base_info": {
+                  "gender": 0,
+                  "profile_gender": 0,
+                  "user_avatar": "",
+                  "user_id": "",
+                  "user_name": ""
+                },
+                "expand_extra": {},
+                "user_id": "",
+                "user_relation": {},
+                "user_stat": {
+                  "extra": {}
+                },
+                "user_tag": {
+                  "is_author": false
+                }
+              }
+            },
+            "stat": {
+              "digg_count": 0,
+              "reply_count": 0
+            },
+            "user_action": {
+              "author": 0,
+              "stick_position": 0,
+              "user_digg": false,
+              "user_disagree": false
+            }
+          }
+        ],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "94": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 14
+          },
+          "3": {
+            "channel": 0,
+            "count": 14
+          }
+        },
+        "count": 14,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "95": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 24
+          },
+          "3": {
+            "channel": 0,
+            "count": 24
+          }
+        },
+        "count": 24,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "96": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 24
+          },
+          "3": {
+            "channel": 0,
+            "count": 24
+          }
+        },
+        "count": 24,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "97": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 4
+          },
+          "3": {
+            "channel": 43,
+            "count": 0
+          }
+        },
+        "count": 4,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "98": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 87
+          },
+          "3": {
+            "channel": 0,
+            "count": 87
+          }
+        },
+        "count": 87,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      },
+      "99": {
+        "bubble_data": {
+          "0": {
+            "channel": 43,
+            "count": 0
+          },
+          "1": {
+            "channel": 0,
+            "count": 332
+          },
+          "3": {
+            "channel": 0,
+            "count": 332
+          }
+        },
+        "count": 332,
+        "hot": "0",
+        "infos": [],
+        "is_author_comment": false,
+        "user_count": 0
+      }
+    },
+    "item_version": "dddc335d4c372397f4ceffaf9b60e570_1_da8fad22fb4a498"
+  },
+  "debug_info": "",
+  "log_id": "20260607070845DC2A1FD63A86A1574AD0",
+  "message": "请求成功"
+}

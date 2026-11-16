@@ -1,0 +1,44 @@
+# Build outputs
+app/build/
+build/
+app/release/
+app/.cxx/
+
+# Gradle / Kotlin / Tooling caches
+.gradle/
+.kotlin/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Native
+*.apk
+*.ap_
+*.dex
+*.jadx
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore
+*.keystore
+*.jks
+
+# 反编译参考资料：保留 api/docs/src，排除历史版本 APK（4.5GB+）
+dec/versions/
+dec/*.apk
+dec/*.jadx
+
+# 本地临时文件
+.screenshots/
+.cxx/
+captures/
+*.hprof

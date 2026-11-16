@@ -1,0 +1,2048 @@
+POST /novel/commentapi/comment/list/6883755304903770632/v1?aid=1967&compliance_status=0&iid=2877876566592665&device_id=2877876567030921&ac=mobile&channel=vivo_1967_64&app_name=novelapp&version_code=70932&version_name=7.0.9.32&device_platform=android&os=android&ssmix=a&device_type=sdk_gphone64_x86_64&device_brand=google&language=zh&os_api=36&os_version=16&manifest_version_code=70932&resolution=1080*2400&dpi=420&update_version_code=70932&_rticket=1780787330791&&host_abi=arm64-v8a&dragon_device_type=phone&pv_player=70932&need_personal_recommend=1&player_so_load=1&is_android_pad_screen=0&rom_version=BE4B.251210.005&cdid=1a84d114-a278-465c-8db2-655435255082 HTTP/2
+host: api5-normal-sinfonlinea.fqnovel.com
+x-ss-stub: BA94AD24426DF23D46951E4179049B8A
+accept-encoding: gzip
+accept: application/json; charset=utf-8,application/x-protobuf
+content-encoding: gzip
+x-xs-from-web: 0
+x-ss-req-ticket: 1780787330795
+x-reading-request: 1780787330795-520931386
+x-vc-bdturing-sdk-version: 4.0.3.cn
+comment-source: 2
+lc: 101
+sdk-version: 2
+x-tt-token: 00c791b0f8a394a904ccba10b26b8dd5f405c2de33e4a9304a6c34cba0053dd7a19e1955a37f495323334b9e1d202d2ae60355512931369fd2bfcda1abb66ac9928ec18d7ec3ce81b2d0c3c177f16d28b45285b7cddc6a10015486cdd2303a24f5612--0a490a20ac9e8a274a1c547958df59f706734eb567cf1bab5aabc1ece2da5253643de6851220a6d3a99566e266d1b7bfc3cbc6599cbf01dcd8d7911c77f121245dff61d5db0e18f6b4d309-3.0.1
+passport-sdk-version: 5051451
+x-tt-store-region: cn-gz
+x-tt-store-region-src: uid
+user-agent: com.dragon.read/70932 (Linux; U; Android 16; zh_CN_#Hans; sdk_gphone64_x86_64; Build/BE4B.251210.005;tt-ok/3.12.13.20)
+x-ladon: Bij1Dw==
+x-khronos: 1780787329
+x-argus: gagkag==
+x-gorgon: 8404109a400085f648948b3f011450c5f47112aa7ef457e7f141
+x-helios: /FFpV/5ngs97GC4EzYAcvmdB0815NsWCQ7rlne2qgEeDAvlO
+x-medusa: hKgkaqzja6DI3Skpvh2KRqPF6DwjAQABktnoSqIcgVsNWDcr+gtwapixQS0jxV4H1BOP6GMx9txvyxgh/roEKyfDBZJ4ariWGsAcEStAtmUGV7ivOEApdxLBoSN46qTkJzrMf2XsjlIyYIUGaFirPmlGQUawnFxhDo/6IMAnIqaQjoh01FmKA61y1guwRbbH6iRd7Y2jFhPHL/tN8btPk/mSsXO83Qv6qaxmU4ihrLUgMMcBEqM6r1KFL4p3FyLzG1HFu7T+YMLQ0fDz77qRqQ5Xm7riI+yKFW10gpDoJjv+PZBIF2hbNqW++Nnt8W3lPlLVxTmbBffvyvunvvM7xN0STvkBR5aDJCTZHh3CtL6HG5hmWCQzraFzxRA7NlfD3qInJz6cirB4rRmiMbKZL+U8SZhDEtu8WTlTcWT1AuJ6/PLLVh5J0VOE4H36NE3RwTU9hadRgTPEGOfPWj8d6gfexjsVt2UPleI51NhiZQwhg44YqNZKwzqUv+L5KPn2jmsEyNLI0rNu0Wbg1NbfiqMsgjDhJyjPEJiPephBgSlg0lpv+mwTKQQdBTuWfZQStuD2hCHe80yNCelPYDAnF3FI0DAtQap/8EOGSvWwvICaXy23uqDSAmBv6pH301vMvIPdTB1iNlB9GU5S0/F5r1ndSD68E7B0BlgP7IwbdLxy4kGZAa5MtOpuXtaJ4MXKgBhvylAwVHq87wivvPuDu06Zbn4q1v+7Sx9O/weMhwl8c6MO1SccvBbaJOIbqpml0hZGNT1qD0iqL0ox+SsqyFXnAKaWUxTOsOj33MAsMJ6IVnc3lFAOnZIWqWwMBwDtktGIOc9vdBBZpUuyJOC/zaEMonftmvD71Z1yFLEXRISSdqv19NiihmDf5wcKj4E5veilF68Yqt4FVdmaIpBn05gk7Q5obO3t7z10T8EyI6Ovnc+AwljlAzkJnxRjeP4JsUDEnQU4gcT3CtH+s9Z4l1jrlUUpwlJ13+VmKPM3y1avUKnTaULy52Qi0aVz3/1gIG6qIvoRDi6hvQNH1d2f4V4Mnfs3tJdWC5NBqFRD2v5XmOQ4ONyEBrYdqkple4UoJj0Ex3Ryta2yn9KRbBX89WuR6Unba/yxbZZaXWw/sTEtBn81jFfZq4QlrJPleM07IKlWGxqIZHVydJ0fCu48DfPcO1TQBihyHOQoNo267JUXklRmFr/X4Io7lHTRiqHeKqoE/eeJ2RQ5eUCENrRaC3v6OvLomx9NBNLtS6HhA9tBa1gaPJPvsSum//2Hzf/9h41Pfw==
+content-type: application/json; charset=utf-8
+content-length: 324
+cookie: store-region=cn-gz; install_id=2877876566592665; ttreq=1$4c38d4739698e974e31d4d98b2a29eafe94ae227; d_ticket=47d7847453b0451fea5d9b46ba14da22856bb; oauth-hash=56333; odin_tt=682d43eaa4e5d260fb54732dc725a37cb54e7099b558556f02e1df5ad517ff18936ebc6e4f4f8456243a69bdd51e2b462c35df22653ea003680d4ccc6c89403f1d3d5c8a4bd3b768dce870404306a80c; n_mh=9tKskabWQ1gvf_MUNx7Q269BNA9ToOOGz4mLIqtBlHI; uid_tt=efa695482c37c9a51b6b1ae69e0522bc; uid_tt_ss=efa695482c37c9a51b6b1ae69e0522bc; sid_tt=c791b0f8a394a904ccba10b26b8dd5f4; sessionid=c791b0f8a394a904ccba10b26b8dd5f4; sessionid_ss=c791b0f8a394a904ccba10b26b8dd5f4; is_staff_user=false; store-region-src=uid; has_biz_token=false; passport_csrf_token=3f2715c5e2cd97d442a02116a9b618c8; passport_csrf_token_default=3f2715c5e2cd97d442a02116a9b618c8; sid_guard=c791b0f8a394a904ccba10b26b8dd5f4%7C1780668824%7C5184000%7CTue%2C+04-Aug-2026+14%3A13%3A44+GMT; session_tlb_tag=sttt%7C17%7Cx5Gw-KOUqQTMuhCya43V9P_________mQFocdDaZu1paO1qhwofSGJy6whABlUAO6_ZR4cGytTs%3D
+
+{"business_param":{"author_user_id":"2268989279713051","book_id":"6883748331202284558","client_ab_params":"{\"comment_dislike_filter\":\"0\"}","comment_sort_debug":false,"end_offset_time":0,"fold_type":1,"item_count":0,"item_version":"67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd","max_item_count":0,"need_count":true,"para_index":30,"read_item_count":0,"req_type":0,"start_offset_time":0,"playlet_item_duration":0},"comment_source":2,"comment_type":1,"count":20,"group_id":"6883755304903770632","group_type":15,"sort":1}
+
+{
+  "business_param": {
+    "author_user_id": "2268989279713051",
+    "book_id": "6883748331202284558",
+    "client_ab_params": "{\"comment_dislike_filter\":\"0\"}",
+    "comment_sort_debug": false,
+    "end_offset_time": 0,
+    "fold_type": 1,
+    "item_count": 0,
+    "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+    "max_item_count": 0,
+    "need_count": true,
+    "para_index": 30,
+    "read_item_count": 0,
+    "req_type": 0,
+    "start_offset_time": 0,
+    "playlet_item_duration": 0
+  },
+  "comment_source": 2,
+  "comment_type": 1,
+  "count": 20,
+  "group_id": "6883755304903770632",
+  "group_type": 15,
+  "sort": 1
+}
+
+{
+  "BaseResp": {
+    "StatusCode": 0,
+    "StatusMessage": "success"
+  },
+  "code": 0,
+  "data": {
+    "common_list_info": {
+      "cursor": "20",
+      "has_more": true,
+      "log_extra": {
+        "recommend_info": "{\"channel_id\":\"\",\"request_id\":\"2026060707085167961F4895BD4018F839\"}"
+      },
+      "total": 26
+    },
+    "data_list": [
+      {
+        "comment": {
+          "comment_id": "7253275266948055863",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "不一定是真的，但有备无患"
+            },
+            "content_type": 0,
+            "create_timestamp": 1688784868,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "去码头整点薯条",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N0ZKhT8NZlwgEwS3TB/NGDk=",
+                "gender": 2,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 2,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/1aae77d0526e43a585c26536922668d8~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783363210&x-signature=LJn1jPYJ1llhjhmHSFNkvExF4u0%3D",
+                "user_id": "783271550528044",
+                "user_name": "辉殿下的图书馆"
+              },
+              "expand_extra": {},
+              "user_id": "783271550528044",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": [
+                  {
+                    "en_title": "author",
+                    "intro": "{\"title_name\":\"作者\",\"title_id\":\"author\"}",
+                    "is_author_title": true,
+                    "is_vip_title": false,
+                    "label": "{\"title_text\":\"作者\",\"title_default_color\":\"#FFFFFF\",\"title_dark_color\":\"#FFFFFF\",\"bg_default_color\":\"{\\\"start\\\":\\\"#FF9F31\\\",\\\"end\\\":\\\"#FFB95C\\\"}\",\"bg_dark_color\":\"{\\\"start\\\":\\\"#CC8029\\\",\\\"end\\\":\\\"#CC9349\\\"}\",\"title_dark_diaphaneity\":\"CC\"}",
+                    "zh_title": "作者"
+                  }
+                ]
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1.701031e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_98d189e8830c2ff",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 207,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1715,
+            "reply_count": 0,
+            "show_pv": 57661
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7159447006564369189",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "国企，央企"
+            },
+            "content_type": 0,
+            "create_timestamp": 1666938779,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NwcsBmXT46N8rLExpjoNWas=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/51cdc818263941cb8985f97b486ddd11~tplv-obj.heic",
+                "user_id": "100582054356",
+                "user_name": "碎月轻狂"
+              },
+              "expand_extra": {},
+              "user_id": "100582054356",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "4.923521e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。\n",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 186,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 4923,
+            "reply_count": 0,
+            "show_pv": 61027
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "6973637030333301544",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "聪明人谈话就是不一样"
+            },
+            "content_type": 0,
+            "create_timestamp": 1623676401,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NzesCsPtB8qFxv33K1xzhpCjcnpMhBCzDPddPH4x49jj",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/51cdc818263941cb8985f97b486ddd11~tplv-obj.heic",
+                "user_id": "2550489592893316",
+                "user_name": "雁去也"
+              },
+              "expand_extra": {},
+              "user_id": "2550489592893316",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1660450385,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#E1DDFF",
+                    "can_worn": false,
+                    "id": 5,
+                    "name": "前排催更",
+                    "small_url": "https://p3-novel.byteimg.com/origin/novel-static/dda89d247c75fa9dfdf08a80bd508401",
+                    "sticker_type": 1,
+                    "url": "https://p3-novel.byteimg.com/origin/novel-static/b9a497dac48a9ee6b81051a70c630d0f"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": ""
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_v2",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 615,
+            "forwarded_count": 0,
+            "read_book_count": 0,
+            "read_duration": 2575,
+            "reply_count": 2,
+            "show_pv": 72733
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7095296225230242590",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "肯定要倒霉了"
+            },
+            "content_type": 0,
+            "create_timestamp": 1652002482,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "远赴人间惊鸿宴，一睹人间盛世颜！",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N2M0hc5VF7xrkjXULvFn1aQ=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-0000/4ae3521efb0a487ca7a628996c8b72d7~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783361146&x-signature=c5A%2FCu4%2BxPDLL9PHO1uKnU4CVKY%3D",
+                "user_id": "74295576941",
+                "user_name": "§不去勾栏许七安§"
+              },
+              "expand_extra": {},
+              "user_id": "74295576941",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1774090758,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#E1DDFF",
+                    "can_worn": false,
+                    "id": 5,
+                    "name": "前排催更",
+                    "small_url": "https://p3-novel.byteimg.com/origin/novel-static/dda89d247c75fa9dfdf08a80bd508401",
+                    "sticker_type": 1,
+                    "url": "https://p3-novel.byteimg.com/origin/novel-static/b9a497dac48a9ee6b81051a70c630d0f"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1.249876e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_v5",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 61,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1249,
+            "reply_count": 0,
+            "show_pv": 58986
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7310964188755002153",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "你搁这排雷来呢[捂脸]"
+            },
+            "content_type": 0,
+            "create_timestamp": 1702217933,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "多多关照",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N/mvgKpPZeSomgEMFYhDBVvNIXtfwxmwflYEEleFNkyr",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/1633ef8d14f74eb684c436bfdbedb519~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783354804&x-signature=uQ4OLotwtOqnH52WCLWgrmFiBEY%3D",
+                "user_id": "2775596685865920",
+                "user_name": "石矷"
+              },
+              "expand_extra": {},
+              "user_id": "2775596685865920",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1674559920,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#FFE1DD",
+                    "can_worn": false,
+                    "id": 1,
+                    "name": "吃瓜群众",
+                    "small_url": "https://p6-novel.byteimg.com/origin/novel-static/99d8abedb53eea031f973b1251119d85",
+                    "sticker_type": 1,
+                    "url": "https://p6-novel.byteimg.com/origin/novel-static/eaf916cdd4f4860ea2a74b0d0e3718f1"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1.722873e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 85,
+            "forwarded_count": 0,
+            "listen_duration": 1,
+            "read_book_count": 0,
+            "read_duration": 1723,
+            "reply_count": 0,
+            "show_pv": 27463
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7191180269822149428",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "国企"
+            },
+            "content_type": 0,
+            "create_timestamp": 1674327648,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "白首不相离",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2Nzl5jTHaAjb3HVWhqiG4xOPyvyGf2Dp4TU50gsMdfv5G",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 2,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/242a6f1ca1a540539f64e70e950d1f94~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783357569&x-signature=YiAKNECzX5vTDCoxK49lQ%2BWiPCU%3D",
+                "user_id": "3812727531512428",
+                "user_name": "乒乓球🏓"
+              },
+              "expand_extra": {},
+              "user_id": "3812727531512428",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1674700861,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#FFE4D8",
+                    "can_worn": false,
+                    "id": 4,
+                    "name": "元气满满",
+                    "small_url": "https://p3-novel.byteimg.com/origin/novel-static/9b065c2d8cda96cbf7fdda5c311d871a",
+                    "sticker_type": 1,
+                    "url": "https://p3-novel.byteimg.com/origin/novel-static/d04cdb6a2447c1029287dc9120659d09"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "5.838487e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_32beaa6928b5ff7",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 29,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 5838,
+            "reply_count": 0,
+            "show_pv": 20584
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7386126998643507993",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "不，你凝个头啊"
+            },
+            "content_type": 0,
+            "create_timestamp": 1719719563,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "我干了，你随意",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NzQjSbpo9E5Kq70ktLB6B3NfvfapmSdRSOehmS3daINx",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/1437c63bc45b464bb1cc6cd6a7b0d4f1~tplv-1yzifmftcy-expand:200:0:0.heic",
+                "user_id": "4380047843527351",
+                "user_name": "小小山楂糕"
+              },
+              "expand_extra": {},
+              "user_id": "4380047843527351",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 13,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1999,
+            "reply_count": 0,
+            "show_pv": 25579
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7498883322448003865",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "自爆卡车[笑]"
+            },
+            "content_type": 0,
+            "create_timestamp": 1745978755,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "中国历史上杰出的政治家、军事家、战略家、文学家。",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NyQj0KrniXVmjQbh9DSRGtM=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/6edd66c8cdcd49b0aa2ee401518d0073~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783359469&x-signature=mElb9TSuriJ3cy5rdl8Gv9p48JI%3D",
+                "user_id": "105187260629",
+                "user_name": "汉武帝–刘彻"
+              },
+              "expand_extra": {},
+              "user_id": "105187260629",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 13,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 2790,
+            "reply_count": 0,
+            "show_pv": 13857
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7394462915354755865",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "所以三皇子反被套话？[捂脸]"
+            },
+            "content_type": 0,
+            "create_timestamp": 1721659255,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "智者不入爱河，CP嗑到疯魔\n添望99，朝俞99，简伶99，顾长99，严江99",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N3NaE+88BrwlNg5BQSyZxcw=",
+                "gender": 2,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/c37faf4fe63144faaaf5fe74d7efef6a~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783360330&x-signature=6Vyd6M5f0E1fGMvDfydr%2Fm8he0Q%3D",
+                "user_id": "479801269293192",
+                "user_name": "坐看云起时APA"
+              },
+              "expand_extra": {},
+              "user_id": "479801269293192",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 47,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 2020,
+            "reply_count": 0,
+            "show_pv": 13934
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7453565264699704089",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "需要成为央企[偷笑][偷笑]"
+            },
+            "content_type": 0,
+            "create_timestamp": 1735432433,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N6d2yKYOBXTysb5U+xdA1Ls=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/7b92beed15144f519898bfe689051d51~tplv-1yzifmftcy-expand:200:0:0.heic",
+                "user_id": "4052781225",
+                "user_name": "爱吃三丁包子的燕燕"
+              },
+              "expand_extra": {},
+              "user_id": "4052781225",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。\n",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 16,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1340,
+            "reply_count": 0,
+            "show_pv": 17141
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7399251111964312382",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "假聪明"
+            },
+            "content_type": 0,
+            "create_timestamp": 1722774645,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N7D2EERnJYQwia+0uoj+lMo=",
+                "gender": 2,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/51cdc818263941cb8985f97b486ddd11~tplv-obj.heic",
+                "user_id": "105606038539",
+                "user_name": "用户10560603"
+              },
+              "expand_extra": {},
+              "user_id": "105606038539",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 5,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1171,
+            "reply_count": 0,
+            "show_pv": 11771
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7065302594600272654",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "国企"
+            },
+            "content_type": 0,
+            "create_timestamp": 1645018952,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N6KZ7WUwLJPzZKWV+aPfJZ8ibq98qFfeBNHfyJl9Iipb",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/3abe6a50e39b4bf1ba7c29f33074e1a8~tplv-1yzifmftcy-expand:200:0:0.heic",
+                "user_id": "1178284318789784",
+                "user_name": "爱吃微波粟子的林大夫"
+              },
+              "expand_extra": {},
+              "user_id": "1178284318789784",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1721466880,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#FFE1DD",
+                    "can_worn": false,
+                    "id": 1,
+                    "name": "吃瓜群众",
+                    "small_url": "https://p6-novel.byteimg.com/origin/novel-static/99d8abedb53eea031f973b1251119d85",
+                    "sticker_type": 1,
+                    "url": "https://p6-novel.byteimg.com/origin/novel-static/eaf916cdd4f4860ea2a74b0d0e3718f1"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1.685392e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_v2",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 38,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1685,
+            "reply_count": 11,
+            "show_pv": 28490
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7429385745410261785",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "套话呢"
+            },
+            "content_type": 0,
+            "create_timestamp": 1729794725,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "新手小说家 科幻，奇幻",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NwSiAtQ4hINxBIrN2UTl2Ws=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/2e22c9e9a3ca4345b946d3985b555e4e~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783357319&x-signature=W5mFJj4j6JZSVcTSz2rAcZpZC5M%3D",
+                "user_id": "6684045638",
+                "user_name": "幻夜思"
+              },
+              "expand_extra": {},
+              "user_id": "6684045638",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": [
+                  {
+                    "en_title": "author",
+                    "intro": "{\"title_name\":\"作者\",\"title_id\":\"author\"}",
+                    "is_author_title": true,
+                    "is_vip_title": false,
+                    "label": "{\"title_text\":\"作者\",\"title_default_color\":\"#FFFFFF\",\"title_dark_color\":\"#FFFFFF\",\"bg_default_color\":\"{\\\"start\\\":\\\"#FF9F31\\\",\\\"end\\\":\\\"#FFB95C\\\"}\",\"bg_dark_color\":\"{\\\"start\\\":\\\"#CC8029\\\",\\\"end\\\":\\\"#CC9349\\\"}\",\"title_dark_diaphaneity\":\"CC\"}",
+                    "zh_title": "作者"
+                  }
+                ]
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 0,
+            "forwarded_count": 0,
+            "listen_duration": 11,
+            "read_book_count": 0,
+            "read_duration": 5223,
+            "reply_count": 0,
+            "show_pv": 519
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7365260313164104472",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "这都是国企"
+            },
+            "content_type": 0,
+            "create_timestamp": 1714866163,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N8HCfywWDsCHTkfe/L0qsJs=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/8b91e01a7b0242389b43128fe854e4b7~tplv-1yzifmftcy-expand:200:0:0.heic",
+                "user_id": "87009135270",
+                "user_name": "邯郸的诸葛长风"
+              },
+              "expand_extra": {},
+              "user_id": "87009135270",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 25,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1140,
+            "reply_count": 0,
+            "show_pv": 13772
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7179763115214258981",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "有点想太简单了。这种你们家都打探不出来的消息，不可能见面就给你透露出来。虚虚实实真真假假才符合。"
+            },
+            "content_type": 0,
+            "create_timestamp": 1671668990,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N9GQ18AWKZM0Q0fO18Fe0UXrdpA6zFePYJTDuHTuPF15",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/51cdc818263941cb8985f97b486ddd11~tplv-obj.heic",
+                "user_id": "4319359181533405",
+                "user_name": "芦苇很好吃"
+              },
+              "expand_extra": {},
+              "user_id": "4319359181533405",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1643613691,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#FFE4D8",
+                    "can_worn": false,
+                    "id": 4,
+                    "name": "元气满满",
+                    "small_url": "https://p3-novel.byteimg.com/origin/novel-static/9b065c2d8cda96cbf7fdda5c311d871a",
+                    "sticker_type": 1,
+                    "url": "https://p3-novel.byteimg.com/origin/novel-static/d04cdb6a2447c1029287dc9120659d09"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1.839686e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 57,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1839,
+            "reply_count": 3,
+            "show_pv": 23341
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7441694910075454270",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "应该打探消都知道吧"
+            },
+            "content_type": 0,
+            "create_timestamp": 1732668839,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "普通的宅",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N7CFMieb/CkURrHlXqLzVhc=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/b8e9a4b2029e4c82bf82e5c2532b6c72~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783359748&x-signature=WXGc69%2FKZ2MJNbmN8M1qzC3937k%3D",
+                "user_id": "111583930472",
+                "user_name": "蔷薇幽羽"
+              },
+              "expand_extra": {},
+              "user_id": "111583930472",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": [
+                  {
+                    "en_title": "image_gen_master_l1",
+                    "intro": "{\"title_name\":\"灵感探索者\",\"title_id\":\"image_gen_master_l1\",\"detail_url\":\"dragon1967://webview?disabledVerticalScrollBar=1&url=https%3A%2F%2Freading.snssdk.com%2Freading_offline%2Fdrlazy%2Fpage%2Fgeneral-rules.html%3Fpage_id%3D68419f3431efeb00394eea09%26title%3D%25E3%2580%258C%25E7%2594%259F%25E5%259B%25BE%25E8%25BE%25BE%25E4%25BA%25BA%25E3%2580%258D%25E7%25A7%25B0%25E5%258F%25B7%26is_multi_level_list%3D1\",\"no_need_popup\":true}",
+                    "is_author_title": false,
+                    "is_vip_title": false,
+                    "label": "{\"title_text\":\"灵感探索者\",\"title_default_color\":\"#FA6725\",\"title_dark_color\":\"#CC561F\",\"bg_default_color\":\"#FA6725\",\"bg_dark_color\":\"#CC561F\",\"title_default_diaphaneity\":\"B3\",\"title_dark_diaphaneity\":\"99\",\"bg_default_diaphaneity\":\"1A\",\"bg_dark_diaphaneity\":\"33\"}",
+                    "zh_title": "灵感探索者"
+                  }
+                ]
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "1"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 5,
+            "forwarded_count": 0,
+            "listen_duration": 52,
+            "read_book_count": 0,
+            "read_duration": 832,
+            "reply_count": 0,
+            "show_pv": 6434
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7568861497956500286",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "国资入股"
+            },
+            "content_type": 0,
+            "create_timestamp": 1762265289,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NzjhcjPPVVzji9K2Tv7ZW3U=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/9949fff925754d4b8186c5881fa57c9f~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783358710&x-signature=ZSTi2T0QfmovwCvUaFoj0hTM6TY%3D",
+                "user_id": "98471320574",
+                "user_name": "小文不次"
+              },
+              "expand_extra": {},
+              "user_id": "98471320574",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。\n",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 0,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 1419,
+            "reply_count": 0,
+            "show_pv": 2280
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7361794255504556862",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "不一定真是朝廷的呀"
+            },
+            "content_type": 0,
+            "create_timestamp": 1714052311,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2NxowtAwXtvG0pq0aMYQhqtLcoZcz58X0fW2yXqx1NnuO",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "https://p3-novel.byteimg.com/img/novel-static/1437c63bc45b464bb1cc6cd6a7b0d4f1~tplv-1yzifmftcy-expand:200:0:0.heic",
+                "user_id": "4424035310510339",
+                "user_name": "用户名59346917"
+              },
+              "expand_extra": {},
+              "user_id": "4424035310510339",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 13,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 7316,
+            "reply_count": 4,
+            "show_pv": 14668
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7033068396803572487",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "淘宝，京东，拼多多"
+            },
+            "content_type": 0,
+            "create_timestamp": 1637513851,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N4eCtxvvZ/dWIjs0qwhpfOgWcSfpAzZwUrv8S9CLgrjo",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 0,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/91ce2f5bc15c4e2c9a4d1b19dd016a23~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783354506&x-signature=IkjG21YtkXRV%2Bs4reMYoWZuItN0%3D",
+                "user_id": "3518059533580199",
+                "user_name": "苍邪mma"
+              },
+              "expand_extra": {},
+              "user_id": "3518059533580199",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 29,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "2.582478e+06"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_v2",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 29,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 253,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 2582,
+            "reply_count": 23,
+            "show_pv": 38530
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      },
+      {
+        "comment": {
+          "comment_id": "7633342946462073625",
+          "common": {
+            "comment_type": 0,
+            "content": {
+              "image_data_list": {},
+              "text": "与民争利"
+            },
+            "content_type": 0,
+            "create_timestamp": 1777280996,
+            "group_id": "6883755304903770632",
+            "service_id": 1,
+            "status": 1,
+            "user_info": {
+              "base_info": {
+                "description": "",
+                "encode_user_id": "#c1967_MTk2NzE5NjcxOTY3MTk2N6xcjtWmr8oo5OHg5fYzw0s=",
+                "gender": 1,
+                "is_ai_bot": false,
+                "is_cancelled": false,
+                "profile_gender": 1,
+                "user_avatar": "http://p3-reading-sign.fqnovelpic.com/tos-cn-i-1yzifmftcy/c43fbc5ba0644e0daec861f437e6cfbf~tplv-s85hriknmn-jpeg-v1:144:0.heic?lk3s=9b9bd2b1&x-expires=1783354030&x-signature=tEKzcuvDX07g3Vp7lKbe5WPzVns%3D",
+                "user_id": "637371578590219",
+                "user_name": "@{*££。。。＄^0^＄}"
+              },
+              "expand_extra": {},
+              "user_id": "637371578590219",
+              "user_relation": {
+                "can_follow": true
+              },
+              "user_tag": {
+                "fan_rank_num": 0,
+                "fan_ranklist_title": "",
+                "is_author": false,
+                "is_blue_vip": false,
+                "is_cp": false,
+                "is_official_cert": false,
+                "is_vip": false,
+                "sticker": {
+                  "expire_time": 1652362099,
+                  "is_worn": true,
+                  "sticker": {
+                    "add_context": "",
+                    "bg_color": "#FFF3DD",
+                    "can_worn": false,
+                    "id": 2,
+                    "name": "永不书荒",
+                    "small_url": "https://p6-novel.byteimg.com/origin/novel-static/2c704b96a929a7a8b3461ddbf49a8d01",
+                    "sticker_type": 1,
+                    "url": "https://p3-novel.byteimg.com/origin/novel-static/b93ef223f8131d9ee8e8312f642d9681"
+                  }
+                },
+                "user_title_info": []
+              }
+            }
+          },
+          "expand": {
+            "book_id": "6883748331202284558",
+            "book_info_list": [],
+            "comment_pos": {
+              "end_para_index": 30,
+              "end_word_pos": 30,
+              "start_para_index": 30,
+              "start_word_pos": 0
+            },
+            "common_stat": {},
+            "creator_id": "2268989279713051",
+            "extra": {
+              "comment_jump_schema": "",
+              "novelapp_read_item_cnt": "0"
+            },
+            "item_version": "67b6bbb42e961fae73a6128aa45a95fe_1_17277a0c65ae1cd",
+            "para_src_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+            "position_info_v2": {
+              "end_container_index": 30,
+              "end_element_index": 0,
+              "end_element_offset": 30,
+              "start_container_index": 30,
+              "start_element_index": 0,
+              "start_element_offset": 0
+            },
+            "relate_info_list": [],
+            "reply_show_count": 1,
+            "reply_show_row": 3,
+            "show_boost": 0
+          },
+          "stat": {
+            "digg_count": 0,
+            "forwarded_count": 0,
+            "listen_duration": 0,
+            "read_book_count": 0,
+            "read_duration": 4211,
+            "reply_count": 0,
+            "show_pv": 117
+          },
+          "user_action": {
+            "author": 0,
+            "is_author_stick": false,
+            "stick_position": 0,
+            "user_digg": false,
+            "user_disagree": false
+          }
+        },
+        "data_type": 4
+      }
+    ],
+    "extra": {
+      "fold_type": 1,
+      "para_content": "李子夜听过，神色微凝，原来，都城这三个商业巨头，都是朝廷的。",
+      "scroll_bar": []
+    }
+  },
+  "debug_info": "",
+  "log_id": "2026060707085167961F4895BD4018F839",
+  "message": "请求成功"
+}
+

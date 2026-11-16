@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FQ++</string>
+    <string name="module_description">番茄小说增强模块，提供接口转发与阅读增强能力</string>
+
+    <string name="status_active">模块已激活</string>
+    <string name="status_active_sub">模块运行正常，番茄小说已被接管</string>
+    <string name="status_inactive">模块未激活</string>
+    <string name="status_inactive_sub">请在 Xposed / LSPosed 管理器中勾选本模块并重启</string>
+    <string name="status_active_framework">模块运行正常 · 框架：%1$s %2$s（API %3$d）</string>
+
+    <string name="intro_desc">FQ++ 是番茄小说的增强模块。它可以把番茄内部的接口转成标准 HTTP 接口，供局域网内其他设备使用，同时提供会员模拟、去除广告、解锁书籍、屏蔽更新等增强功能。</string>
+
+    <string name="features_header">主要功能</string>
+    <string name="feat_http_title">接口转发</string>
+    <string name="feat_http_desc">把番茄内部接口转成标准 HTTP 接口，局域网内任意设备都能使用</string>
+    <string name="feat_vip_title">会员与去广告</string>
+    <string name="feat_vip_desc">模拟会员身份，去除阅读时的广告</string>
+    <string name="feat_unlock_title">解锁书籍</string>
+    <string name="feat_unlock_desc">解除下架和封禁书籍的阅读限制</string>
+    <string name="feat_update_title">屏蔽更新</string>
+    <string name="feat_update_desc">阻止番茄小说检查更新</string>
+    <string name="feat_clean_title">界面净化</string>
+    <string name="feat_clean_desc">一键隐藏搜索轮播提示、全屏广告、角标红点、会员特权卡与小说推荐等骚扰板块</string>
+    <string name="feat_reward_title">激励秒领</string>
+    <string name="feat_reward_desc">跳过激励视频广告，奖励直接到账</string>
+    <string name="feat_reading_title">阅读时长（5x）</string>
+    <string name="feat_reading_desc">阅读计时按 5 倍累积，快速领取每日时长奖励</string>
+    <string name="feat_crash_title">崩溃上报禁用</string>
+    <string name="feat_crash_desc">阻断崩溃监控与上报，避免干扰官方正常反馈接口</string>
+    <string name="feat_hotupdate_title">热更新禁用</string>
+    <string name="feat_hotupdate_desc">阻止 Reparo 热修复框架初始化与加载补丁，防止应用自更新覆盖模块效果</string>
+    <string name="feat_plugin_title">加载插件禁用</string>
+    <string name="feat_plugin_desc">禁止加载 files/plugins/ 下的 Mira 插件，保持纯净运行环境</string>
+
+    <string name="version_footer">FQ++ v1.1 · 仅供技术研究使用</string>
+</resources>

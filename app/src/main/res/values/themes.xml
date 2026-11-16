@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <style name="Base.AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+    <!-- Primary -->
+    <item name="colorPrimary">#1B7E4B</item>
+    <item name="colorOnPrimary">#FFFFFF</item>
+    <item name="colorPrimaryContainer">#A4F1C1</item>
+    <item name="colorOnPrimaryContainer">#002111</item>
+    <!-- Secondary -->
+    <item name="colorSecondary">#4E6357</item>
+    <item name="colorOnSecondary">#FFFFFF</item>
+    <item name="colorSecondaryContainer">#D0E8DA</item>
+    <item name="colorOnSecondaryContainer">#082019</item>
+    <!-- Tertiary -->
+    <item name="colorTertiary">#3B6373</item>
+    <item name="colorOnTertiary">#FFFFFF</item>
+    <item name="colorTertiaryContainer">#BFE9FA</item>
+    <item name="colorOnTertiaryContainer">#001F29</item>
+    <!-- Error -->
+    <item name="colorError">#BA1A1A</item>
+    <item name="colorOnError">#FFFFFF</item>
+    <item name="colorErrorContainer">#FFDAD6</item>
+    <item name="colorOnErrorContainer">#410002</item>
+    <!-- Surface / Background -->
+    <item name="android:colorBackground">#FBFDF9</item>
+    <item name="colorOnBackground">#181D1A</item>
+    <item name="colorSurface">#FBFDF9</item>
+    <item name="colorOnSurface">#181D1A</item>
+    <item name="colorSurfaceVariant">#DAE5DD</item>
+    <item name="colorOnSurfaceVariant">#3F4944</item>
+    <item name="colorSurfaceContainerLowest">#FFFFFF</item>
+    <item name="colorSurfaceContainerLow">#F5F8F4</item>
+    <item name="colorSurfaceContainer">#EFF2EE</item>
+    <item name="colorSurfaceContainerHigh">#E9F0EA</item>
+    <item name="colorSurfaceContainerHighest">#E3EBE4</item>
+    <!-- Outline -->
+    <item name="colorOutline">#6F7973</item>
+    <item name="colorOutlineVariant">#BFC9C2</item>
+    <!-- Dialog -->
+    <item name="materialAlertDialogTheme">@style/ThemeOverlay.Material3.Dialog.Alert</item>
+    <!-- System bars -->
+    <item name="android:statusBarColor">?attr/colorSurface</item>
+    <item name="android:navigationBarColor">?attr/colorSurface</item>
+    <item name="android:windowLightStatusBar">true</item>
+  </style>
+
+  <style name="AppTheme" parent="Base.AppTheme" />
+</resources>

@@ -1,0 +1,33 @@
+pluginManagement {
+    repositories {
+        // 阿里云镜像：加速 Google / AndroidX / Gradle 插件等依赖下载
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
+        // 兜底：官方源（镜像不可用时仍可解析）
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        // 阿里云镜像：加速项目依赖下载
+        maven { url 'https://maven.aliyun.com/repository/public' }
+        maven { url 'https://maven.aliyun.com/repository/google' }
+        maven { url 'https://maven.aliyun.com/repository/central' }
+        // 兜底：官方源
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "FQPlusPlus"
+
+include(":app")
