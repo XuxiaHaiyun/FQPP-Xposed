@@ -84,4 +84,4 @@
 
 ## 📄 许可证
 
-[Apache License 2.0](LICENSE) © 2025 FQ++ Contributors
+[GNU General Public License v3.0](LICENSE) © 2025 FQ++ Contributors
