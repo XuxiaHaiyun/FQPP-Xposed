@@ -5,7 +5,7 @@
 - Android Studio（Hedgehog 2023.1.1 或更高）
 - Gradle 9.0.0 / Android Gradle Plugin 8.13.0
 - JDK 17
-- `compileSdk 36` / `minSdk 21` / `targetSdk 34`
+- `compileSdk 36` / `minSdk 26` / `targetSdk 34`
 
 ## 主要依赖
 

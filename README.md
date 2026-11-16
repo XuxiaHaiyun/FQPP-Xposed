@@ -8,7 +8,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Xposed](https://img.shields.io/badge/Xposed-LSPosed%20%E6%8E%A8%E8%8D%90-success)](https://github.com/LSPosed/LSPosed)
-[![API](https://img.shields.io/badge/Android-5.0%2B-brightgreen)]()
+[![API](https://img.shields.io/badge/Android-8.0%2B-brightgreen)]()
 [![Target](https://img.shields.io/badge/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4-7.x-orange)]()
 [![Release](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-Releases-blue)](https://github.com/XuxiaHaiyun/FQplusplus/releases)
 

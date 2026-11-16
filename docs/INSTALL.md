@@ -4,7 +4,7 @@
 
 | 条件 | 说明 |
 |------|------|
-| Android 版本 | 5.0 (API 21) 及以上 |
+| Android 版本 | 8.0 (API 26) 及以上 |
 | 系统框架 | Xposed / EdXposed / LSPosed（**推荐 LSPosed**，模块基于 libxposed API 102 开发） |
 | 目标 App | 番茄免费小说 `com.dragon.read`，适配验证版本 **7.0.9.32** |
 | 可选依赖 | [开源阅读 (Legado)](https://github.com/gedoor/legado) 或其他支持自定义书源的阅读器 |
